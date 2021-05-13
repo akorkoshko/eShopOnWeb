@@ -1,5 +1,6 @@
 name: eShopOnWeb Build and Test
 
+#some comment
 on: [push, pull_request, workflow_dispatch]
 jobs:
   build:
